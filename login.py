@@ -1,3 +1,8 @@
+
+1231asf
+
+num =30
+
 print("zhouyi编写的代码")
 num = 10
 print("zhouer编写的代码")
@@ -9,4 +14,3 @@ num = 20
 
 
 
-1231asf
